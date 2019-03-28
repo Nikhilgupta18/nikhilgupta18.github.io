@@ -37,6 +37,7 @@ h1:hover{
 	background-size: cover;
 	width: 200px;
 	height: 100px;
+	position: center;
 }
 
 .btn:hover{
