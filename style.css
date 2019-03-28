@@ -29,9 +29,9 @@ h1:hover{
 }
 .btn{
 
-	margin-top: 5em;
+	margin-top: 5rem;
 	border-radius: 200px;
-	border-color: black;
+	border-color: #000000;
 	background-image: url(always.jpg);
 	background-size: cover;
 	width: 200px;
@@ -40,7 +40,7 @@ h1:hover{
 
 .btn:hover{
 	
-	border-color: white;
+	border-color:#ffffff;
 	cursor: pointer;
 }
 
